@@ -3,30 +3,30 @@
 # Suprize Admin
 
 # Installations
-  install visual studio code  <br/>
-  install rails  <br/>
-  install ruby  <br/>
-  install postgresql  <br/>
-  install "imagemagick"  <br/>
+  install visual studio code  
+  install rails  
+  install ruby  
+  install postgresql  
+  install "imagemagick"  
 
 # Database Schema Migration
-  First create database  <br/>
-  ```rails db:create```  <br/>
-  After that migrate db  <br/>
-  ```rails db:migrate```  <br/>
-  For incremental db schema changes you need to add migrations  <br/>
-  ``` rails db:migrate migration_name ```  <br/>
-  then you can write you code to change the schema in this migration  <br/>
-  And again run  <br/>
-  ```rails db:migrate```  <br/>
+  First create database  
+  ```rails db:create```  
+  After that migrate db  
+  ```rails db:migrate```  
+  For incremental db schema changes you need to add migrations  
+  ``` rails db:migrate migration_name ```  
+  then you can write you code to change the schema in this migration  
+  And again run  
+  ```rails db:migrate```  
 
 
 
 # Configrations
-  create .env file  <br/>
-  copy the variables from ``` .env_sample ``` file and paste it in ``` .env ``` file  <br/>
-  Replace all the values with your values  <br/>
+  create .env file  
+  copy the variables from ``` .env_sample ``` file and paste it in ``` .env ``` file  
+  Replace all the values with your values  
 
 # Running
-  ```bundle install```  <br/>
-  ```rails s```  <br/>
+  ```bundle install```  
+  ```rails s```  
